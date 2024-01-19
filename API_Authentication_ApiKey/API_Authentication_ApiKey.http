@@ -1,0 +1,6 @@
+@API_Authentication_ApiKey_HostAddress = http://localhost:5005
+
+GET {{API_Authentication_ApiKey_HostAddress}}/wf/
+Accept: application/json
+X-API-AuthKey:d3vnwDLqBCEcNkLY0uIwYg5dzyIAcMtSdwt7DuzdLc=
+###
